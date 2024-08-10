@@ -1,7 +1,13 @@
 # NaturalLandscapes
-Screensaver for Roku
+Configurable screensaver for Roku.
 
-# 📊 GitHub Stats:
-![]Test
+# 📊 Current Features:
+- Change background image speed
+- Hours format
 
+# 📊 Future Features:
+- Shuffle images
+- Hours format
+- Clock and Time animation
+- New animations
 ---
