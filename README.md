@@ -2,7 +2,7 @@
 Configurable screensaver for Roku.
 
 # 📊 Current Features:
-- Change background image speed
+- Speed
 - Hours format
 
 # 📊 Future Features:
