@@ -5,10 +5,11 @@ Configurable screensaver for Roku.
 - Speed
 - Hours format
 
-# 👨🏽‍💻 Future Features:
+# 👨🏽‍💻 Future Update:
 - Shuffle images
 - Clock and Time animation
 - New animations
+- Change to Unplash
 
 # 🖼️ Images License:
 The landscapes images are free for use under the <a href="[url](https://pixabay.com/service/license-summary/)">Pixabay Content License</a>.
