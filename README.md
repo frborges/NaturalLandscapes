@@ -7,7 +7,6 @@ Configurable screensaver for Roku.
 
 # 👨🏽‍💻 Future Features:
 - Shuffle images
-- Hours format
 - Clock and Time animation
 - New animations
 
