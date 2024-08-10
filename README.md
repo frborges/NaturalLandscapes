@@ -1,4 +1,4 @@
-# NaturalLandscapes
+# Natural Landscapes Screensaver
 Configurable screensaver for Roku.
 
 # 📊 Current Features:
