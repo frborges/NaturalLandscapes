@@ -11,4 +11,4 @@ Configurable screensaver for Roku.
 - New animations
 
 # 🖼️ Images License:
-The landscapes images are free for use under the <a href="[url](https://unsplash.com/license)">Unsplash Content License</a>.
+The landscapes images are free for use under the <a href="https://unsplash.com/license">Unsplash Content License</a>.
