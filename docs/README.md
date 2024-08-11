@@ -1,5 +1,5 @@
 # Natural Landscapes Screensaver
-Configurable screensaver for Roku.
+Configurable screensaver
 
 # 🗃️ Current Features:
 - Speed
