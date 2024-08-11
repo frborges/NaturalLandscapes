@@ -9,7 +9,6 @@ Configurable screensaver for Roku.
 - Shuffle images
 - Clock and Time animation
 - New animations
-- Change to Unplash
 
 # 🖼️ Images License:
 The landscapes images are free for use under the <a href="[url](https://unsplash.com/license)">Unsplash Content License</a>.
