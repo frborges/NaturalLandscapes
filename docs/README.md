@@ -22,14 +22,14 @@ Please verify the individual license for each image before downloading or reusin
 5 - https://unsplash.com/photos/eWFdaPRFjwE
 6 - https://unsplash.com/photos/Bkci_8qcdvQ
 7 - https://unsplash.com/photos/xzygzr-i2Ys
-8 - https://unsplash.com/photos/gYVcQDHK7fI
+8 - https://unsplash.com/photos/A0IQ97o2DSI
 9 - https://unsplash.com/photos/mI02K_LxlfU
 10 - https://unsplash.com/photos/o9bxhS6PZNc
 11 - https://unsplash.com/photos/ESkw2ayO2As
-12 - https://unsplash.com/photos/ZqLeQDjY6fY
+12 - https://unsplash.com/photos/SgcyEyFmyow
 13 - https://unsplash.com/photos/wndpWTiDuT0
 14 - https://unsplash.com/photos/07mSKrzKiRw
 15 - https://unsplash.com/photos/Gg7uKdHFb_c
-16 - https://unsplash.com/photos/sR7_ImYvt1Q
+16 - https://unsplash.com/photos/LN9NrBU2i0M
  
 ---
