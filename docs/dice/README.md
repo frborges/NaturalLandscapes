@@ -15,7 +15,7 @@ Roll Dices, Flip Coins and Generate Random Numbers on Roku.
 
 
 
-# 🖼️ License:
+# 🖼️ Licenses:
 
 - Icons by Phosphor. Phosphor is free and open-source, licensed under MIT. If you enjoy their icons, please support them with a donation.
  - https://phosphoricons.com/
