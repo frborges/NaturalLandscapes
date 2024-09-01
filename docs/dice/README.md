@@ -1,5 +1,5 @@
 # Dice Roller: Random Generator
-Configurable screensaver for Roku.
+Roll Dices, Flip Coins and Generate Random Numbers on Roku.
 
 # 🗃️ Current Features:
 - Selectable Number of Dices
