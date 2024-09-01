@@ -1,4 +1,4 @@
-# Natural Landscapes Screensaver
+# Dice Roller: Random Generator
 Configurable screensaver for Roku.
 
 # 🗃️ Current Features:
