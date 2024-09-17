@@ -1,14 +1,3 @@
-# Natural Landscapes Screensaver
-Configurable screensaver for Roku.
+# Hello!
 
-# 🗃️ Current Features:
-- Speed
-- Hours format
-
-# 👨🏽‍💻 Future Updates:
-- Shuffle images
-- Clock and Time animation
-- New animations
-
-# 🖼️ Images License:
-The landscapes images are free for use under the <a href="https://unsplash.com/license">Unsplash Content License</a>.
+I will move these pages to Clouflare Pages. You didn't see anything here. :)
